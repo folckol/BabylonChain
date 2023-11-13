@@ -1,0 +1,11 @@
+17:27:37 | SUCCESS  -| 0 | Зарегистрирован рефовод. Код - <__main__.BabylonChainModel object at 0x000002311DBF1A90>
+17:29:52 | ERROR    -| 0 | Ошибка - Expecting value: line 1 column 1 (char 0)
+17:30:59 | ERROR    -| 0 | Ошибка - Expecting value: line 1 column 1 (char 0)
+17:31:36 | ERROR    -| 0 | Ошибка - Expecting value: line 1 column 1 (char 0)
+17:32:13 | ERROR    -| 0 | Ошибка - Expecting value: line 1 column 1 (char 0)
+17:35:04 | ERROR    -| 0 | Ошибка - Expecting value: line 1 column 1 (char 0)
+17:40:28 | ERROR    -| 0 | Ошибка - Expecting value: line 1 column 1 (char 0)
+17:44:02 | ERROR    -| 0 | Ошибка - [ERROR_CAPTCHA_UNSOLVABLE] This type of captchas is not supported by the service or the image does not contain an answer, perhaps it is too noisy. It could also mean that the image is corrupted or was incorrectly rendered. 
+17:45:40 | ERROR    -| 0 | Ошибка - Expecting value: line 1 column 1 (char 0)
+17:46:38 | ERROR    -| 0 | Ошибка - Expecting value: line 1 column 1 (char 0)
+17:47:39 | ERROR    -| 0 | Ошибка - Expecting value: line 1 column 1 (char 0)
